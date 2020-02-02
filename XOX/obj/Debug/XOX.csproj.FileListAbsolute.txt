@@ -1,0 +1,9 @@
+C:\Users\Atakan\source\repos\XOX\XOX\bin\Debug\XOX.exe.config
+C:\Users\Atakan\source\repos\XOX\XOX\bin\Debug\XOX.exe
+C:\Users\Atakan\source\repos\XOX\XOX\bin\Debug\XOX.pdb
+C:\Users\Atakan\source\repos\XOX\XOX\obj\Debug\XOX.csprojAssemblyReference.cache
+C:\Users\Atakan\source\repos\XOX\XOX\obj\Debug\XOX.Form1.resources
+C:\Users\Atakan\source\repos\XOX\XOX\obj\Debug\XOX.Properties.Resources.resources
+C:\Users\Atakan\source\repos\XOX\XOX\obj\Debug\XOX.csproj.GenerateResource.cache
+C:\Users\Atakan\source\repos\XOX\XOX\obj\Debug\XOX.exe
+C:\Users\Atakan\source\repos\XOX\XOX\obj\Debug\XOX.pdb
